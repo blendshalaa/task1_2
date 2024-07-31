@@ -27,7 +27,7 @@ function App() {
                 <Card 
                     date='3.3.0(14/05/2018)' 
                     button1='Improvement' 
-                    button1color="#725387"
+                    button1color="#FF779E"
                     profilepic={img} 
                     name='Kevin Joe' 
                     subtitle='Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.' 
@@ -53,7 +53,7 @@ function App() {
                 <Card 
                     date='3.3.0(14/05/2018)' 
                     button1='Improvement' 
-                       button1color="#725387"
+                       button1color="#FF779E"
                     
                     profilepic={img} 
                     name='Kevin Joe' 
